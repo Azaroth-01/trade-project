@@ -1,4 +1,8 @@
 # trade-project
+## What it is
+
+It's a simple trading background which uses CoinDCX apis in order to generate trade XAI crypto currency and (hopefully) generate a little trade profit 
+
 
 To install dependencies:
 
